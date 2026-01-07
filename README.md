@@ -1,33 +1,63 @@
-ROMERO’S Ops Hub — Android-first operations platform for owner-operators and small fleets to plan weekly runs, manage paperwork, track cashflow, and make better operational decisions.
 # ROMERO’S Ops Hub
 
 **Plan the week. Track the paperwork. Get paid faster.**
 
-ROMERO’S Ops Hub is an Android-first operations and paperwork management app built for owner-operators and small trucking fleets.
+ROMERO’S Ops Hub is an Android-first operations management platform built for owner-operators and small trucking fleets who want structure, clarity, and control over their business.
 
-## What the app does
+---
+
+## What Exists Today (MVP)
 - Weekly Run Planner (lanes, RPM targets, hours, home time)
 - Load folders with secure document storage (Rate Cons, BOLs, PODs, receipts)
 - Paperwork status checklist per load
-- Simple invoice tracker with follow-ups
-- Client request / ticket system (replace random texting)
+- Simple invoice tracking (paid, unpaid, overdue, follow-up)
+- Dashboard for daily priorities and operational visibility
 
-## Who it’s for
-- Owner-operators
-- Small fleets (1–5 trucks)
-- Dispatchers and operations consultants
+---
+
+## What We’re Actively Building
+- Cashflow follow-up workflows
+- Broker performance notes
+- Standardized request/ticket system
+- Templates for detention, TONU, and payment follow-ups
+
+---
+
+## Operating Systems Philosophy
+
+ROMERO’S Ops Hub is designed around **operating systems**, not scattered tools.
+
+Current and planned systems include:
+
+- **Ops Hub Core** — loads, documents, invoices, and checklists
+- **COS (Cashflow Operating System)** — collections, follow-ups, and pay-speed tracking
+- **DOS (Decision Operating System)** — capturing operational decisions and outcomes
+- **ROS (Risk Optimization System)** — identifying broker, lane, and cashflow risk
+- **PLOS (Profit & Load Optimization System)** — improving load selection and weekly outcomes
+
+These systems start rule-based and analytics-driven, with a long-term path toward predictive optimization.
+
+---
+
+## Roadmap (High Level)
+- Phase 1: Operational structure and visibility
+- Phase 2: Cashflow optimization and workflow standardization
+- Phase 3: Decision analytics and performance insights
+- Phase 4: Predictive and optimization features (data-dependent)
+
+---
 
 ## Tech Stack
 - React Native (Expo)
-- Supabase (Postgres + Auth + Storage)
-- Android first (iOS planned)
-
-## Status
-🚧 In active development  
-Private beta planned
-
-## Vision
-Reduce chaos, missed paperwork, and late payments by giving carriers a simple, structured operations hub that actually fits how trucking works.
+- Supabase (Postgres, Auth, Storage)
+- Android-first (iOS planned)
 
 ---
-Built by ROMERO’S Transport Operations Consulting
+
+## Status
+🚧 Active development  
+Private beta planned
+
+---
+
+Built by **ROMERO’S Transport Operations Consulting**
