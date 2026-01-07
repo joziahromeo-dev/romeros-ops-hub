@@ -1,5 +1,4 @@
-# romeros-ops-hub
-ROMERO’S Ops Hub — Android-first operations platform for owner-operators and small fleets to plan weekly runs, track paperwork, and get paid faster.
+ROMERO’S Ops Hub — Android-first operations platform for owner-operators and small fleets to plan weekly runs, manage paperwork, track cashflow, and make better operational decisions.
 # ROMERO’S Ops Hub
 
 **Plan the week. Track the paperwork. Get paid faster.**
